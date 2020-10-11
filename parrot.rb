@@ -1,4 +1,4 @@
-def parrot(string="Squawk!")
+def parrot(String="Squawk!")
   puts "#{String}"
       "#{String}"
       
