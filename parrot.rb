@@ -1,2 +1,2 @@
 parrot_method
-  def 
+  def parrot 
