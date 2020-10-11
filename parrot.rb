@@ -1,3 +1,4 @@
+require_relative 
 def parrot
   phrase = "Squawk!"
   puts parrot
