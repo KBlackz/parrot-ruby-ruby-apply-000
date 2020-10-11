@@ -1,10 +1,10 @@
 require_relative 
   def parrot
-  phrase = "Squawk!"
-  puts parrot
+  parrot = phrase 
+  phrase = "Squawk!'"
   
   end 
-
-  return phrase
+   puts parrots 
+  return
   
 end
