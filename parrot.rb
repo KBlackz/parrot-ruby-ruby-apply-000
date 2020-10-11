@@ -1,5 +1,5 @@
 require_relative 
-def parrot
+  def parrot
   phrase = "Squawk!"
   puts parrot
   
